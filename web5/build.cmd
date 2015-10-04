@@ -1,0 +1,1 @@
+﻿"D:\LMCom\rew\packages\WebGrease.1.6.0\tools\WG.EXE" -m -in:D:\LMCom\rew2\web5\scripts\file2.js -out:D:\LMCom\rew2\web5\scripts\file2.min.js
